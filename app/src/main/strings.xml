@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen Agent</string>
+    <string name="service_desc">Lets the AI see your screen and tap, swipe and type for you when you give it a task.</string>
+</resources>
